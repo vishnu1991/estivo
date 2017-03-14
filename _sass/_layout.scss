@@ -274,7 +274,7 @@ Post List
 .post-title {
     letter-spacing: -1px;
     line-height: 1;
-
+ align:center;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
