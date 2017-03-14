@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll2dfd!"
 date:   2013-09-07 23:38:22
 description: "Myd other post, will it work"
 categories: jekyll update
