@@ -4,12 +4,11 @@ title:  "Test post 3!"
 date:   2017-03-13 23:38:22
 description: "My other post, will it work test2"
 categories: cat5
-imglink: https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/FlakCannon_Large.png
 ---
 this is a test  cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 Testing emojis 
 🙂😎🤓🤗🤑😋😜😝
-
+हालाँकि सूर के जीवन के बारे में कई जनश्रुतियाँ प्रचलित हैं, पर इन में कितनी सच्चाई है यह कहना कठिन है। कहा जाता है उनका जन्म सन् १४७८ में दिल्ली के पास एक ग़रीब ब्राह्मीण परिवार में हुआ। जनश्रुति के अनुसार सूरदास जन्म से ही अंधे थे। आजकल थी अंधे आदमी अक्सर 'सूरदास' कहलाते हैं। कई लोगों ने उन्हें गुरु के रूप में अपनाया और उनकी पूजा करना शुरु कर दिया ।
 
 ### Solar System Exploration, 1950s – 1960s
 
