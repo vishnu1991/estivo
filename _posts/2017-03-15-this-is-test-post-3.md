@@ -5,8 +5,9 @@ date:   2017-03-13 23:38:22
 description: "My other post, will it work test2"
 categories: cat5
 ---
-this is a test  :octocat: cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
+this is a test  cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Testing emojis 
+🙂😎🤓🤗🤑😋😜😝
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
