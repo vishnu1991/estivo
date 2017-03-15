@@ -15,7 +15,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 10
-paginate_path: "https://vishnu1991.github.io/estivo/page/:num/"
+paginate_path: "/page/:num/"
 
 # Minification
 sass:
