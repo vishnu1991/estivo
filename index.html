@@ -29,7 +29,7 @@ layout: default
 
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a class="pagination-link" href="{{ paginator.previous_page_path }}/estivo/" class="previous"><span class="arrow">&larr;</span> Previous</a>
+      <a class="pagination-link" href="{{ paginator.previous_page_path }}" class="previous"><span class="arrow">&larr;</span> Previous</a>
     {% endif %}
     {% if paginator.next_page %}
       <a class="pagination-link" href="{{ paginator.next_page_path }}" class="next">Next <span class="arrow">&rarr;</span></a>
