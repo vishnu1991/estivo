@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll test 2!"
 date:   2017-02-02 23:38:22
 description: "My other post, will it work test2"
-categories: jekyll update2
+categories: cat2
 ---
 this is a test post.You’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
