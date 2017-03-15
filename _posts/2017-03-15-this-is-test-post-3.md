@@ -4,6 +4,7 @@ title:  "Test post 3!"
 date:   2017-03-13 23:38:22
 description: "My other post, will it work test2"
 categories: cat5
+permalink: /test-site-493/
 ---
 this is a test  cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 Testing emojis 
