@@ -9,7 +9,11 @@ this is a test  cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directo
 Testing emojis 
 🙂😎🤓🤗🤑😋😜😝
 
-
+<pre>
+ffdfd dd
+ fd dfdfdf dff 
+ dffdfd
+ ddf</pre>
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
