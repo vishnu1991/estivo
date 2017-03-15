@@ -3,7 +3,7 @@ title: "theblog"
 email: me@fffabs.com
 description: > # this means to ignore newlines until "baseurl:"
   vishnu &copy 2017 - go create!
-baseurl: "/estivo/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://f-word.co" # the base hostname & protocol for your site
 twitter_username: fffabs
 github_username:  toxinide
