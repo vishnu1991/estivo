@@ -3,7 +3,7 @@ title: "theblog"
 email: me@fffabs.com
 description: > 
  vishnu &copy 2016-2017 - Lets make something!
-baseurl: "/estivo/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vishnu1991.github.io" # the base hostname & protocol for your site
 twitter_username: v2s2c
 github_username:  vishnu1991
@@ -15,7 +15,7 @@ highlighter: rouge
 
 # Pagination
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: "estivo/page/:num/"
 
 # Minification
 sass:
