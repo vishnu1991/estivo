@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Test post 3!"
-date:   2017-03-15 23:38:22
-description: "My other post, will it work test2"
+title:  "Test post 4!"
+date:   2017-03-15 23:39:55
+description: "My other post, will it work test4"
 categories: cat5
 ---
 this is a test  cpost.Youdffdf fgg’ll fidnd this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
