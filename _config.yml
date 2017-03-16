@@ -11,7 +11,7 @@ github_username:  vishnu1991
 # Build settings
 markdown: kramdown
 permalink: ":title/"
-highlighter: rouge
+highlighter: pygments
 
 # Pagination
 paginate: 10
