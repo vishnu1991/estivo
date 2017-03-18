@@ -20,25 +20,25 @@ categories: cholesterol,health
 
 4.भूरा चावल
 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/brown-rice-compressed.jpg)
 
 5.दाल चीनी 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/Dalchini.jpg)
 
 6.गवार 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/gavar-cluster%20bean-compressed.jpg)
 7.मेथी बीज 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/fenugreek-seeds-compressed.jpg)
 8.नाशपाती 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/pear-benefits-03-16-02-compressed.jpg)
 9.सेब
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/apple-fruit-compressed.jpg)
 10.नारंग 
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
 11.अंगूर 
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
 12.अनार
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/fotolia_19716263_x-compressed.jpg)
 13.लहसुन
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
 14.अदरक
