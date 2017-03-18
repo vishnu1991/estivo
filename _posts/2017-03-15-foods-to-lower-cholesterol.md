@@ -7,9 +7,13 @@ categories: cholesterol,health
 ---
 # कोलेस्ट्रॉल को कम करने के लिए आहार
 1.चना दाल
+
 2.राजमा
+
 3.काबुली चना
+
 4.भूरा चावल
+
 5.दाल चीनी (Cinnamon)
 6.गवार (Cluster bean)
 7.मेथी बीज (Fenugreek Seeds)
