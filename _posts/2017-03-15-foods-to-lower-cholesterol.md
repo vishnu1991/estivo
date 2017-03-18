@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Foods to lower Cholesterol!"
+title: कोलेस्ट्रॉल को कम करने के लिए आहार"
 date:   2017-03-18 5:00:22
 description: "Lower your cholesterol,triglyceride,LDL,VLDL Cholesterol"
 categories: cholesterol,health
