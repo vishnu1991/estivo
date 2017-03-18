@@ -41,8 +41,10 @@ categories: cholesterol,health
 17.अखरोट
 
 18.बादाम
+
 ![बादाम] 
 (https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 19.चावल की भूसी का तेल
 
 20.टमाटर
