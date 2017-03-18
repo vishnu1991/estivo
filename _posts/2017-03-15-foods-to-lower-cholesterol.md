@@ -14,17 +14,17 @@ categories: cholesterol,health
 
 4.भूरा चावल
 
-5.दाल चीनी (Cinnamon)
+5.दाल चीनी 
 
-6.गवार (Cluster bean)
+6.गवार 
 
-7.मेथी बीज (Fenugreek Seeds)
+7.मेथी बीज 
 
-8.नाशपाती (Pear)
+8.नाशपाती 
 
-9.सेब (Apple)
+9.सेब
 
-10.नारंग (Orange) 
+10.नारंग 
 
 11.अंगूर 
 
