@@ -16,7 +16,7 @@ categories: cholesterol,health
 
 3.काबुली चना
 
-![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/indian-chick-peas55-compressed.jpg)
 
 4.भूरा चावल
 
