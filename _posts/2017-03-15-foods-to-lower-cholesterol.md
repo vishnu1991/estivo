@@ -7,15 +7,24 @@ categories: cholesterol,health
 ---
 # कोलेस्ट्रॉल को कम करने के लिए आहार
 1.चना दाल
+
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/chana-dal.jpg)
+
 2.राजमा
+
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/Rajma_Masala_foodfood-compressed.jpg)
+
 3.काबुली चना
+
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+
 4.भूरा चावल
+
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+
 5.दाल चीनी 
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/0000206_badam-american-1kg-compressed.jpg)
+
 6.गवार 
 ![Reduce Cholesterol food ](https://raw.githubusercontent.com/vishnu1991/estivo/master/assets/images/01-compressed.jpg)
 7.मेथी बीज 
