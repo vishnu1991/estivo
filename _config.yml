@@ -4,7 +4,7 @@ email: me@fffabs.com
 description: > 
  vishnu &copy 2016-2017 - Lets make something!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vishnu1991.github.io" # the base hostname & protocol for your site
+url: "http://vishnu1991.github.io/estivo" # the base hostname & protocol for your site
 twitter_username: v2s2c
 github_username:  vishnu1991
 
